@@ -1,6 +1,5 @@
 {
   "mappings": [
     "/content/edge/:/",
-    "/content/edge/configuration:/.helix/config.json"
   ]
 }
